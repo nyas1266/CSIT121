@@ -1,0 +1,10 @@
+#attempt {float: left;
+          background-color: pink;
+          font-family: Verdana;
+          padding: 10px;
+          color: pink;}
+#another {background-color: pink;
+          border: solid;
+          position: absolute; 
+          right: 50px; 
+          top: 50px;}
